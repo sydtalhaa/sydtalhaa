@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Syed Talha
-- 👀 I’m interested in coding
+- 👀 I’m interested in VLSI
 - 🌱 I’m currently pursuing Engineering in Electronics and Communication
 - 📫 syeds.21.beec@acharya.ac.in
 
